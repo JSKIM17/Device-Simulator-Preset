@@ -1,0 +1,16 @@
+{
+    "name": "com.JSKIM.DeviceSimulatorPreset",
+    "version": "0.0.1",
+    "displayName": "Device Simulator Presets",
+    "description": "This is an example package",
+    "unity": "2022.3",
+    "description": "This package is simply a collection of presets for Unity Device Simulator.",
+    "dependencies": {
+      "com.unity.device-simulator.devices": "1.0.0",
+   },
+   "repository": {
+    "url": "https://github.com/JSKIM17/Device-Simulator-Preset.git",
+    "type": "git",
+  }
+  }
+  
