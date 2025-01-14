@@ -1,0 +1,34 @@
+{
+    "friendlyName": "Samsung Galaxy S24 Ultra",
+    "version": 1,
+    "screens": [
+        {
+            "width": 1440,
+            "height": 3120,
+            "dpi": 425.0,
+            "orientations":[{
+                "orientation": 1,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1440,
+                        "height": 3120
+                    }
+            }],
+            "_presentation": {
+                "overlayPath": "Apple iPhone 11_Overlay.png",
+                "borderSize": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            }
+        }
+    ],
+    
+    "systemInfo": {
+        "operatingSystem": "Android"
+    }
+}
